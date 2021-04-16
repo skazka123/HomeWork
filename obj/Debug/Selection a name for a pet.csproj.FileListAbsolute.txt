@@ -1,0 +1,12 @@
+C:\Users\User\Desktop\Учеба\3_курс\Тестирование\ДЗ по автоматизации\Selection a name for a pet\Selection a name for a pet\bin\Debug\chromedriver.exe
+C:\Users\User\Desktop\Учеба\3_курс\Тестирование\ДЗ по автоматизации\Selection a name for a pet\Selection a name for a pet\bin\Debug\Selection a name for a pet.dll
+C:\Users\User\Desktop\Учеба\3_курс\Тестирование\ДЗ по автоматизации\Selection a name for a pet\Selection a name for a pet\bin\Debug\Selection a name for a pet.pdb
+C:\Users\User\Desktop\Учеба\3_курс\Тестирование\ДЗ по автоматизации\Selection a name for a pet\Selection a name for a pet\bin\Debug\nunit.framework.dll
+C:\Users\User\Desktop\Учеба\3_курс\Тестирование\ДЗ по автоматизации\Selection a name for a pet\Selection a name for a pet\bin\Debug\WebDriver.dll
+C:\Users\User\Desktop\Учеба\3_курс\Тестирование\ДЗ по автоматизации\Selection a name for a pet\Selection a name for a pet\bin\Debug\nunit.framework.xml
+C:\Users\User\Desktop\Учеба\3_курс\Тестирование\ДЗ по автоматизации\Selection a name for a pet\Selection a name for a pet\bin\Debug\WebDriver.xml
+C:\Users\User\Desktop\Учеба\3_курс\Тестирование\ДЗ по автоматизации\Selection a name for a pet\Selection a name for a pet\obj\Debug\Selection a name for a pet.csprojAssemblyReference.cache
+C:\Users\User\Desktop\Учеба\3_курс\Тестирование\ДЗ по автоматизации\Selection a name for a pet\Selection a name for a pet\obj\Debug\Selection a name for a pet.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Учеба\3_курс\Тестирование\ДЗ по автоматизации\Selection a name for a pet\Selection a name for a pet\obj\Debug\Selection a name for a pet.csproj.CopyComplete
+C:\Users\User\Desktop\Учеба\3_курс\Тестирование\ДЗ по автоматизации\Selection a name for a pet\Selection a name for a pet\obj\Debug\Selection a name for a pet.dll
+C:\Users\User\Desktop\Учеба\3_курс\Тестирование\ДЗ по автоматизации\Selection a name for a pet\Selection a name for a pet\obj\Debug\Selection a name for a pet.pdb
